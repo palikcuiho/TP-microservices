@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "VS5sTZ5nSvzJerOETZObmBJdob4vdHZPIBkm6WI5FfU=",
+  "Source": "BorrowingService",
+  "BasePath": "_content/BorrowingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\UserService.csproj",
+      "Version": 2,
+      "Source": "UserService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

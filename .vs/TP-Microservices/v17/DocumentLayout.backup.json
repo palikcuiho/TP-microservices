@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\borrowingservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|solutionrelative:borrowingservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4814DD54-0244-4096-BE62-5D003981BA35}|UserService\\UserService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\userservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4814DD54-0244-4096-BE62-5D003981BA35}|UserService\\UserService.csproj|solutionrelative:userservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\borrowingservice\\services\\borrowingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|solutionrelative:borrowingservice\\services\\borrowingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\borrowingservice\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|solutionrelative:borrowingservice\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\borrowingservice\\clients\\bookserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|solutionrelative:borrowingservice\\clients\\bookserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\borrowingservice\\clients\\userserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|solutionrelative:borrowingservice\\clients\\userserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4814DD54-0244-4096-BE62-5D003981BA35}|UserService\\UserService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\userservice\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4814DD54-0244-4096-BE62-5D003981BA35}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\borrowingservice\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|solutionrelative:borrowingservice\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\borrowingservice\\dto\\borrowingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EA1B88-6C00-4A0D-9E68-C6ADC8202EA6}|BorrowingService\\BorrowingService.csproj|solutionrelative:borrowingservice\\dto\\borrowingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4814DD54-0244-4096-BE62-5D003981BA35}|UserService\\UserService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4814DD54-0244-4096-BE62-5D003981BA35}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6564542F-418F-4F10-8F9C-D5C13620D695}|BookService\\BookService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\bookservice\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6564542F-418F-4F10-8F9C-D5C13620D695}|BookService\\BookService.csproj|solutionrelative:bookservice\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4814DD54-0244-4096-BE62-5D003981BA35}|UserService\\UserService.csproj|c:\\repos\\2itech\\microservices-mes-repos\\micro-2itech\\tp-microservices\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4814DD54-0244-4096-BE62-5D003981BA35}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Kafka\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "BorrowingService\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Kafka\\KafkaConsumer.cs",
+              "RelativeToolTip": "BorrowingService\\Kafka\\KafkaConsumer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:00:37.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowingController.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Controllers\\BorrowingController.cs",
+              "RelativeDocumentMoniker": "BorrowingService\\Controllers\\BorrowingController.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Controllers\\BorrowingController.cs",
+              "RelativeToolTip": "BorrowingService\\Controllers\\BorrowingController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:59:40.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:53:39.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BorrowingService\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "BorrowingService\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:53:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BorrowingDTO.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\DTO\\BorrowingDTO.cs",
+              "RelativeDocumentMoniker": "BorrowingService\\DTO\\BorrowingDTO.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\DTO\\BorrowingDTO.cs",
+              "RelativeToolTip": "BorrowingService\\DTO\\BorrowingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:51:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServiceClient.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Clients\\UserServiceClient.cs",
+              "RelativeDocumentMoniker": "BorrowingService\\Clients\\UserServiceClient.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Clients\\UserServiceClient.cs",
+              "RelativeToolTip": "BorrowingService\\Clients\\UserServiceClient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:45:27.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookServiceClient.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Clients\\BookServiceClient.cs",
+              "RelativeDocumentMoniker": "BorrowingService\\Clients\\BookServiceClient.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Clients\\BookServiceClient.cs",
+              "RelativeToolTip": "BorrowingService\\Clients\\BookServiceClient.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:44:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowingsService.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Services\\BorrowingsService.cs",
+              "RelativeDocumentMoniker": "BorrowingService\\Services\\BorrowingsService.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BorrowingService\\Services\\BorrowingsService.cs",
+              "RelativeToolTip": "BorrowingService\\Services\\BorrowingsService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:43:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BookService\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "BookService\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\BookService\\Services\\BooksService.cs",
+              "RelativeToolTip": "BookService\\Services\\BooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:36:47.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\Services\\UsersService.cs",
+              "RelativeToolTip": "UserService\\Services\\UsersService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:36:17.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:35:41.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\Kafka\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "UserService\\Kafka\\KafkaProducer.cs",
+              "ToolTip": "C:\\Repos\\2iTech\\microservices-mes-repos\\micro-2itech\\TP-Microservices\\UserService\\Kafka\\KafkaProducer.cs",
+              "RelativeToolTip": "UserService\\Kafka\\KafkaProducer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:35:29.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

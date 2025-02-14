@@ -1,0 +1,29 @@
+name: TP-microservices-db
+
+services:
+
+  bookdb:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: book_db
+    ports:
+      - "3306:3306" 
+
+  borrowingdb:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: borrowing_db
+    ports:
+      - "3307:3306" 
+
+  userdb:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: user_db
+    ports:
+      - "3308:3306" 
+
+

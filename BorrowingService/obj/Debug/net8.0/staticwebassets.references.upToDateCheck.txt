@@ -1,0 +1,3 @@
+C:\Repos\2iTech\microservices-mes-repos\micro-2itech\TP-Microservices\UserService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Repos\2iTech\microservices-mes-repos\micro-2itech\TP-Microservices\UserService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Repos\2iTech\microservices-mes-repos\micro-2itech\TP-Microservices\UserService\obj\Debug\net8.0\staticwebassets.build.json
